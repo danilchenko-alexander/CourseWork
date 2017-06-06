@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/restart.png</file>
+        <file>images/shutdown.png</file>
+        <file>images/wait.png</file>
+        <file>images/windows.jpg</file>
+        <file>images/battery.png</file>
+        <file>images/keyboard.png</file>
+    </qresource>
+</RCC>
